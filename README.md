@@ -1,4 +1,3 @@
 # Apresentação de portfólio, Para acessá-lo, click no link a baixo:
-[Portfólio Fernando Freires ""]target="_blank"(https://fernando-freires.github.io/)
-
+[Portfólio Fernando Freires](https://fernando-freires.github.io/){:target="_blank" rel="noopener"}
 #### O mesmo será atualizado semanalmente caso haja algo que possa ser acrescentado para enriquecê-lo.
