@@ -181,7 +181,7 @@
 .skills-box {
     flex: 1 1 33%;
     max-width: 33%;
-    margin-bottom: 35px;
+    margin-bottom: 1.2em;
 }
 
 .skills-title {
@@ -194,9 +194,19 @@
 
 .skills-box i {
     font-size: 45px;
-    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
+.skills-box p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: .5em;
+}
 
 /*Mobile*/
 
